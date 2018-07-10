@@ -33,7 +33,8 @@ Now, please:
 1. Enter your new folder and press on the round Plus button (<font color="lightblue">:fa-plus-circle:</font>) ***at the bottom of the file browser***, to create a new CommonMark file
 1. Name that file `index.md`
 
-```<!DOCTYPE html>
+```html
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <title>Adding Videos Using HTML5 &ltvideo&gt and &ltsource&gt Element</title>
@@ -58,7 +59,8 @@ Now, please:
         
     </body>
 
-</html> ```
+</html> 
+```
 
 Now, if you name this new file `index.md`, as I asked, everytime you enter that folder, this file will always be the first to greet you. Write there some welcoming message and place there links to other CommonMark documents, for example, by writing `[My Tasks](tasks.md)`. 
 
