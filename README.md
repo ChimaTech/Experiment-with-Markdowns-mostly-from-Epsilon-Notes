@@ -1,7 +1,3 @@
----
-Title: Welcome to Epsilon Notes
-...
-
 # Hello, dear friend! :fa-hand-paper-o a-shake:
 
 ## Quickstart
