@@ -33,6 +33,32 @@ Now, please:
 1. Enter your new folder and press on the round Plus button (<font color="lightblue">:fa-plus-circle:</font>) ***at the bottom of the file browser***, to create a new CommonMark file
 1. Name that file `index.md`
 
+`<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Adding Videos Using HTML5 &ltvideo&gt and &ltsource&gt Element</title>
+        <meta charset="utf-8">
+        <link rel="shortcut icon" href="icon/icon.png" type="image/x-icon">
+        
+        <link href="styles.css" rel="stylesheet">
+        
+    </head>
+    
+    <body>
+    
+        <video poster="img/post2.jpg"
+        width="640" height="360"
+        preload
+        controls>
+        
+        	 <source src="vid/vid.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+        	<source src="vid/vid.flv" type="video/flv">
+            <p>A H264 (.mp4) video ought to appear here!</p>
+        </video>
+        
+    </body>
+
+</html> `
 
 Now, if you name this new file `index.md`, as I asked, everytime you enter that folder, this file will always be the first to greet you. Write there some welcoming message and place there links to other CommonMark documents, for example, by writing `[My Tasks](tasks.md)`. 
 
