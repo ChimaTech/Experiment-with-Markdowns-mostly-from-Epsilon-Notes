@@ -69,3 +69,9 @@ Epsilon Notes is **a powerful** CommonMark editor with infinite abilities. To wr
 # Happy writing with Epsilon Notes!
 
 To delete this Welcome File, if you no longer need it, go to the file browser (swipe from the right side of the screen to the center), and make a long tap on the file name. Then, choose `delete file`.
+
+```html
+var obj = 1;
+let Ada = "Ada";
+const steve = true; 
+```
